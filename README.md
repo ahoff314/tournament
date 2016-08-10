@@ -20,7 +20,7 @@
 
 ## Test
 
-`cd vagrant\tournament`
+`cd tournament`
 
 `python tournament_test.py`
 
