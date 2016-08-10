@@ -1,12 +1,13 @@
 ## Clone the repo
 
-`git clone https://github.com/ahoff314/tournament.git`
+`git clone https://github.com/ahoff314/tournament.git golf`
 
 `cd tournament`
 
 ## Make sure VirtualBox and Vagrant are installed
 
 `vagrant up`
+
 `vagrant ssh`
 
 ## Create Tournament Database
