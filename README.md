@@ -1,8 +1,12 @@
+# SHERMAN OAKS OPEN 2016
+
 ## Clone the repo
 
 `git clone https://github.com/ahoff314/tournament.git golf`
 
-`cd tournament`
+`cd golf`
+
+`cd .vagrant`
 
 ## Make sure VirtualBox and Vagrant are installed
 
