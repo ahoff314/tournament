@@ -1,4 +1,3 @@
--- SHERMAN OAKS OPEN 2016
 
 CREATE TABLE players (id SERIAL primary key,
                       name TEXT);
