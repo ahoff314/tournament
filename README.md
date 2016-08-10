@@ -6,23 +6,15 @@
 
 `cd golf`
 
-`cd .vagrant`
-
 ## Make sure VirtualBox and Vagrant are installed
 
 `vagrant up`
 
 `vagrant ssh`
 
-## Create Tournament Database
+## Navigate to tournament database
 
-`psql`
-
-`CREATE DATABASE tournament;`
-
-## Import SQL Schema
-
-`\i tournament.sql`
+`psql tournament`
 
 `\q` to exit
 
