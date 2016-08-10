@@ -18,6 +18,14 @@
 
 `\q` to exit
 
+## Or create the database if necessary
+
+`psql`
+
+`CREATE DATABASE tournament;`
+
+`\i tournament.sql`
+
 ## Test
 
 `cd tournament`
