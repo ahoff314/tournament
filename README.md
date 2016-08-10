@@ -24,7 +24,7 @@
 
 `CREATE DATABASE tournament;`
 
-`\i tournament.sql`
+`\i tournament.sql` to import the schema
 
 ## Test
 
